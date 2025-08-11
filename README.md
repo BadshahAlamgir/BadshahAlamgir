@@ -1,48 +1,34 @@
-# Hi there 👋, I'm Badshah Alamgir  
-🎯 **Applied Statistics & Data Science Graduate | Data Analyst | Research Enthusiast**
+# Correlates of Minor Marriage in Bangladesh
 
----
+## 📌 Overview
+This project analyzes the determinants of early marriage among women in Bangladesh using the Multiple Indicator Cluster Survey (MICS) 2019 dataset. The goal was to identify key socio-economic and demographic factors influencing early marriage patterns.
 
-## 📌 About Me
-- 🎓 M.Sc. (Appeared) & B.Sc. in **Applied Statistics** — University of Dhaka  
-- 📊 Skilled in **Data Analysis, Visualization, and Statistical Modeling**  
-- 💻 Experienced with **R, Python, Stata, SPSS, Minitab**  
-- 📈 Passionate about **Research, Survey Data, and Forecasting**  
+## 📂 Dataset
+- **Source:** UNICEF MICS 2019 (Bangladesh)
+- **Size:** ~64,000 observations
+- **Type:** National household survey data
 
----
+## 🛠 Methodology
+1. **Data Cleaning & Preprocessing** – Removing missing values, recoding variables, handling categorical data.
+2. **Exploratory Data Analysis (EDA)** – Descriptive statistics & visualization (R, Power BI).
+3. **Modeling** – Logistic Regression to estimate the effect of socio-economic variables.
+4. **Visualization** – ggplot2 & Power BI dashboards for interactive insights.
 
-## 🔬 Featured Projects
-### 📊 Correlates of Minor Marriage in Bangladesh  
-- **Data:** MICS 2019  
-- **Tech:** R, Power BI  
-- **Highlights:** Logistic regression, descriptive statistics, visual dashboards  
-- [View Repository](Correlates-of-Minor-Marriage-in-Bangladesh
-)  
+## 📊 Key Insights
+- Rural residence, lower education levels, and lower wealth index are significant predictors of early marriage.
+- Urban women with higher education show substantially lower risk.
+- Policy implication: Interventions should focus on rural education programs.
 
-### 📈 EU Trade and Its Best Forecast  
-- Time series analysis & forecasting of EU trade data.  
-- **Tech:** Python, R, ARIMA models, ggplot2 visualizations.  
-- [View Repository](#)  
+## 💻 Tech Stack
+R | Power BI | ggplot2 | dplyr | Logistic Regression
 
-### 💼 Unemployment in the UK and Its Best Forecast  
-- Analysis & forecasting using statistical modeling.  
-- **Tech:** R, Python, Prophet, Power BI.  
-- [View Repository](#)  
+## 📈 Visualizations
+## Visualization
 
----
+### Rate of Early Marriage All Over the Country
 
-## 🛠 Skills
-**Languages & Tools:**  
-R | Python | Stata | SPSS | Minitab | MySQL | Power BI | ggplot2 | seaborn | Retool
+![Description of Graph 1](Rplot01(2).png)
 
----
+### Age Distribution of Early Marriage
 
-## 🏆 Achievements
-- 🥇 Champion — **Inter Hall Chess Championship** (University of Dhaka, 2023 & 2025)  
-- 🥉 2nd Runner-up — **Dhaka University Chess Championship** (2025)  
-
----
-
-## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/badshahalamgir)  
-📧 **balamgir@isrt.ac.bd**
+![Description of Graph 2](age_line.png)
