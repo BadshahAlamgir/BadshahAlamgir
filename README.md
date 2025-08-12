@@ -12,7 +12,10 @@
 ---
 
 ## 🔬 Featured Projects
-
+### 👥 Customer Segmentation
+  - A Python-based project that segments customers by analyzing Recency, Frequency, and Monetary behavior.
+  - It combines data cleaning, feature engineering, clustering with K-Means, and rich visualizations—including histograms, radar charts, and interactive 3D plots—to uncover valuable  insights for targeted marketing and business growth.
+  - [View Repository](https://github.com/BadshahAlamgir/Customer-Segmentation-Using-RFM-Analysis-and-K-Means-Clustering)
 ### 💳 Credit Risk Prediction
 - A machine learning project to predict the probability of loan default using financial/credit behavior or loan characteristics Data.
 - This project applies data preprocessing, EDA, feature engineering, class balancing, and model building to create an accurate and interpretable credit risk classifier.
