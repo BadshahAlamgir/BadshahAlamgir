@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Badshah Alamgir  
+# Hi there, I'm Badshah Alamgir  
 🎯 **Applied Statistics Graduate | Data Analyst | Research Enthusiast**
 
 ---
