@@ -21,7 +21,7 @@
 
 ### 📊 Correlates of Minor Marriage in Bangladesh  
 - **Data:** MICS 2019  
-- **Tech:** R, Power BI  
+- **Tech:** R, STATA, Power BI  
 - **Highlights:** Logistic regression, descriptive statistics, visual dashboards  
 - [View Repository](https://github.com/BadshahAlamgir/Correlates-of-Minor-Marriage-in-Bangladesh)  
 
@@ -32,7 +32,7 @@
 
 ### 💼 Unemployment in the UK and Its Best Forecast  
 - Analysis & forecasting using statistical modeling.  
-- **Tech:** R, Python, Prophet, Power BI.  
+- **Tech:** R, Python, Power BI.  
 - [View Repository](https://github.com/BadshahAlamgir/UK-Unemployment-Rate-and-Its-Best-Forecast)  
 
 
@@ -40,7 +40,7 @@
 
 ## 🛠 Skills
 **Languages & Tools:**  
-R | Python | Stata | SPSS | Minitab | MySQL | Power BI | ggplot2 | seaborn | Retool
+R | Python | Stata | SPSS | Minitab | MySQL | Power BI | ggplot2 | seaborn | Microsoft Excel | Microsoft Power Point | Microsoft Word
 
 ---
 
