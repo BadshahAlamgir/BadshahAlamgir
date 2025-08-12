@@ -21,7 +21,7 @@
 ### 📈 EU Trade and Its Best Forecast  
 - Time series analysis & forecasting of EU trade data.  
 - **Tech:** Python, R, ARIMA models, ggplot2 visualizations.  
-- [View Repository](#)  
+- [View Repository](https://github.com/BadshahAlamgir/Time-Series-Analysis-of-European-Union-Trade)  
 
 ### 💼 Unemployment in the UK and Its Best Forecast  
 - Analysis & forecasting using statistical modeling.  
