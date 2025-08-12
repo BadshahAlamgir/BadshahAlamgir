@@ -7,7 +7,7 @@
 - 🎓 M.Sc. (Appeared) in **Applied Statistics and Data Science** & B.Sc. in **Applied Statistics** — University of Dhaka  
 - 📊 Skilled in **Data Analysis, Visualization, and Statistical Modeling**  
 - 💻 Experienced with **R, Python, Stata, SPSS, Minitab, PowerBI**  
-- 📈 Passionate about **Business Analysis, Research, Survey Data, and Forecasting**  
+- 📈 Passionate about **Business Analysis, Research, Survey Data, Classification/Segmentation, Prediction and Forecasting**  
 
 ---
 
