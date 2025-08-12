@@ -16,7 +16,7 @@
 - **Data:** MICS 2019  
 - **Tech:** R, Power BI  
 - **Highlights:** Logistic regression, descriptive statistics, visual dashboards  
-- [View Repository](#)  
+- [View Repository](https://github.com/BadshahAlamgir/Correlates-of-Minor-Marriage-in-Bangladesh)  
 
 ### 📈 EU Trade and Its Best Forecast  
 - Time series analysis & forecasting of EU trade data.  
