@@ -20,7 +20,8 @@
 - [View Repository](https://github.com/BadshahAlamgir/Credit-Risk)
 
 ### 📊 Correlates of Minor Marriage in Bangladesh  
-- **Data:** MICS 2019  
+- *This project analyzes the determinants of early marriage among women in Bangladesh using the Multiple Indicator Cluster Survey (MICS) 2019 dataset.
+- The goal was to identify key socio-economic and demographic factors influencing early marriage patterns.
 - **Tech:** R, STATA, Power BI  
 - **Highlights:** Logistic regression, descriptive statistics, visual dashboards  
 - [View Repository](https://github.com/BadshahAlamgir/Correlates-of-Minor-Marriage-in-Bangladesh)  
