@@ -13,7 +13,7 @@
 
 ## 🔬 Featured Projects
 
-### 💳 Credit Risk Prediction & Management
+### 💳 Credit Risk Prediction
 - A machine learning project to predict the probability of loan default using financial/credit behavior or loan characteristics Data.
 - This project applies data preprocessing, EDA, feature engineering, class balancing, and model building to create an accurate and interpretable credit risk classifier.
 - **Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, RandomForestClassifier, imbalanced-learn (SMOTE).
