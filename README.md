@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Badshah Alamgir  
-🎯 **Applied Statistics & Data Science Graduate | Data Analyst | Research Enthusiast**
+🎯 **Applied Statistics Graduate | Data Analyst | Research Enthusiast**
 
 ---
 
