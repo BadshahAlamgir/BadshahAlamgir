@@ -1,15 +1,32 @@
-# Hi there, I'm Badshah Alamgir  
-🎯 **Applied Statistics Graduate | Data Analyst | Research Enthusiast**
+
+# 👋 Hi, I'm Badshah Alamgir  
+
+🎯 **Data Analyst | Applied Statistics & Data Science Graduate | Turning Data into Decisions**  
+
+I’m passionate about using data to uncover insights, solve problems, and drive strategic actions.  
+With a background in **Applied Statistics and Data Science**, I combine strong analytical skills with hands-on experience in **data storytelling, predictive analytics, data mining, and business intelligence reporting**.  
 
 ---
 
-## 📌 About Me
+## 🚀 About Me
 - 🎓 M.Sc. (Appeared) in **Applied Statistics and Data Science** & B.Sc. in **Applied Statistics** — University of Dhaka  
-- 📊 Skilled in **Data Analysis, Visualization, and Statistical Modeling**  
-- 💻 Experienced with **R, Python, Stata, SPSS, Minitab, PowerBI**  
-- 📈 Passionate about **Business Analysis, Research, Survey Data, Classification/Segmentation, Prediction and Forecasting**  
+- 📊 Skilled in **R, Python, Power BI, SQL, Advanced Excel**  
+- 🛠 Experienced in **statistical modeling, survey analysis, and machine learning**  
+- 📈 Strong in **data strategy, data visualization, and data warehousing concepts**  
+- 🌍 Open to **remote, hybrid, or on-site roles** in Data Analysis / Business Intelligence  
 
 ---
+
+## 🛠 Tech Stack
+**Languages:** Python, R, SQL  
+**Data Analysis:** Pandas, NumPy, Scikit-learn, Stata, SPSS, Minitab  
+**Visualization:** Power BI, Matplotlib, Seaborn, ggplot2  
+**Databases:** MySQL, basic data warehousing concepts  
+**Tools:** Excel (Advanced), R Markdown, LaTeX, GitHub  
+**Other Skills:** Data storytelling, Predictive analytics, Data mining, Data strategy  
+
+---
+
 
 ## 🔬 Featured Projects
 ### 👥 Customer Segmentation
@@ -40,11 +57,8 @@
 - [View Repository](https://github.com/BadshahAlamgir/UK-Unemployment-Rate-and-Its-Best-Forecast)  
 
 
----
 
-## 🛠 Skills
-**Languages & Tools:**  
-R | Python | Stata | SPSS | Minitab | MySQL | Power BI | ggplot2 | seaborn | Microsoft Excel | Microsoft Power Point | Microsoft Word
+
 
 ---
 
@@ -54,6 +68,8 @@ R | Python | Stata | SPSS | Minitab | MySQL | Power BI | ggplot2 | seaborn | Mic
 
 ---
 
-## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/badshahalamgir)  
-📧 **balamgir@isrt.ac.bd**
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/badshahalamgir)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BadshahAlamgir)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balamgir@isrt.ac.bd)  
+
